@@ -2,3 +2,4 @@ YL-3566TPB-debian11-HDMI-202508051111.zip filter=lfs diff=lfs merge=lfs -text
 YL-3566TPB-debian11-LVDS-202508051015.zip filter=lfs diff=lfs merge=lfs -text
 YL-3566TPB-debian11-HDMI-202508181627.zip filter=lfs diff=lfs merge=lfs -text
 YL-3566TPB-debian11-LVDS-202508181600.zip filter=lfs diff=lfs merge=lfs -text
+YL-3566TPB-debian11-HDMI-202508251126.zip filter=lfs diff=lfs merge=lfs -text
